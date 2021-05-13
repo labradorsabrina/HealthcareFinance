@@ -1,6 +1,6 @@
 # Healthcare Insurance Cost Forecasting #
 
-This is a prediction of the healthcare cost of insurance benefits claims at the HULA, was made using Watson Health Analytics Workbench. To the purpose of testing and publishing the model on notebook I created a synthetic data based on the original data we used to made the study. 
+This is a prediction of the healthcare cost of insurance benefits claims at the HULA, was made using Watson Health Analytics Workbench. To the purpose of testing and publishing the model on notebook the data used is synthetic, but based on the real dataset we used to made the study. 
 
 <details>
     <summary>About the data used</summary>
