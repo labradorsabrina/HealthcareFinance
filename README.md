@@ -1,6 +1,6 @@
 # Healthcare Insurance Cost Forecasting #
 
-This is a prediction of the healthcare cost from claims of insurance benefits at the HULA using Watson Health Analytics Workbench. To the purpose of testing and publishing this notebook includes live code that accesses the sample data assets stored in COS, prepares those data, and builds a machine-learning model using the PySpark interface. 
+This is a prediction of the healthcare cost of insurance benefits claims at the HULA, was made using Watson Health Analytics Workbench. To the purpose of testing and publishing the model on notebook I created a synthetic data based on the original data we used to made the study. 
 
 <details>
     <summary>About the data used</summary>
